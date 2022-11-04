@@ -4,3 +4,32 @@ expected output:  113350
 2.to transpose a matrix multiplication
 3.to perform matrix multiplication.
 
+x , y = 1 , 2 
+
+print('Value of x,y :' , x, y) ///It is a tuple.
+
+print(type(_)) ///Output => tuple.
+
+len() 
+
+number: immutable
+
+string: immutable
+
+range: immutable
+
+tuple: immutable
+
+lists: mutable.
+
+abstract class, it won't have any method body. 
+
+call by reference, call by value.
+
+For multiplcation:
+
+for i in range(1.11):
+  for j in range(1.11):
+    print(i*j,end="\t")
+    
+
